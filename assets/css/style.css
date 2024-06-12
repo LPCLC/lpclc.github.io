@@ -10,6 +10,14 @@ li {
   padding: 0;
 }
 
+p {
+  font-size: large;
+}
+
+h2 {
+  font-size: xx-large;
+}
+
 /* Global styles */
 body, html {
   height: 100%;
@@ -169,34 +177,4 @@ section.hero {
     width: 100%;
     padding: 0;
   }
-}
-
-section.news {
-  background-color: #fff;
-}
-
-section.news h2 {
-  font-size: 24px;
-  margin-bottom: 10px;
-}
-
-section.news li {
-  margin-bottom: 20px;
-}
-
-section.news li h3 {
-  font-size: 20px;
-  margin-top: 20px;
-  margin-bottom: 5px;
-}
-
-section.news li .p1 {
-  color: #777;
-  margin-bottom: 5px;
-}
-
-section.news li link {
-  text-decoration: none;
-  margin-top: 20px;
-  color: #8D211F
 }
