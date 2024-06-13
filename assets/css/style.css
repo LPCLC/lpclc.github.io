@@ -6,17 +6,25 @@ h3,
 p,
 ul,
 li {
-  margin: 0px;
+  margin: 10px;
   padding: 0px;
   display: block;
 }
 
 p {
-  font-size: large;
+  display: block;
+  margin-top: 10px;
+  font-size: 18px;
 }
 
 h2 {
+  padding-top: 30px;
+  font-size: 22px;
+}
+
+h1 {
   padding-top: 10px;
+  font-size: 28px;
 }
 
 /* Global styles */
@@ -179,8 +187,8 @@ section.hero {
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
-  margin: 4px 2px;
+  display: block;
+  margin-top: 30px;
   cursor: pointer;
   border-radius: 16px;
 }
