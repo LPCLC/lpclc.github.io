@@ -9,7 +9,6 @@ li {
   margin: 0px;
   padding: 0px;
   display: block;
-  font-family: "Oswald", sans-serif;
   font-optical-sizing: auto;
   font-weight: regular;
 }
@@ -34,7 +33,7 @@ h1 {
 body, html {
   height: 100%;
   line-height: 1.5;
-  font-family: Arial, sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 hr.new1 {
