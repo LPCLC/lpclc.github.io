@@ -6,12 +6,15 @@ h3,
 p,
 ul,
 li {
-  margin: 10px;
+  margin: 0px;
   padding: 0px;
   display: block;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: regular;
 }
 
-p {
+p1 {
   display: block;
   margin-top: 10px;
   font-size: 18px;
