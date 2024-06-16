@@ -78,7 +78,7 @@ a:active {
 .footer-image {
   background-image: url('/assets/images/Footer.png');
   background-position: center;
-  height: 300px;
+  height: 150px;
   z-index: -1;
 }
 
